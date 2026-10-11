@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:2563eb&text=Md.%20Masud%20Rana&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Senior%20Software%20Engineer%20%C2%B7%20Frontend%20Architecture%20%26%20Full%20Stack&descAlignY=60&descSize=16" alt="Md. Masud Rana banner" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-masud--rana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/masud-rana-89711591)
 ![Location](https://img.shields.io/badge/Dhaka%2C%20Bangladesh-UTC%2B6-0f172a?style=for-the-badge&logo=googlemaps&logoColor=white)
