@@ -9,7 +9,7 @@
 
 ## About
 
-Senior Software Engineer with 5+ years of experience. I lead frontend development for high-traffic online travel (OTA) booking platforms serving both **B2B and B2C** channels, building booking engines, dynamic search, and payment flow UI in **Next.js, React and TypeScript**. I also design REST APIs and relational database schemas, and I work with **Go** on the backend.
+Senior Software Engineer with 5+ years of experience. I lead frontend development for high-traffic online travel (OTA) booking platforms serving both **B2B and B2C** channels, building booking engines, dynamic search, and payment flow UI in **Next.js, React and TypeScript**. I also design REST APIs and relational database schemas, and I work with **nodeJS** and **Go** on the backend.
 
 ## Tech stack
 
